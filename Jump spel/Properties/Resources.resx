@@ -133,4 +133,7 @@
   <data name="Minecraft Spider.E05.watermarked.2k" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Minecraft Spider.E05.watermarked.2k.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pngjoy.com_coins-game-gold-coin-png-transparent-png_2155729" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngjoy.com_coins-game-gold-coin-png-transparent-png_2155729.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

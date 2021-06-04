@@ -109,5 +109,15 @@ namespace Jump_spel.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngjoy_com_coins_game_gold_coin_png_transparent_png_2155729 {
+            get {
+                object obj = ResourceManager.GetObject("pngjoy.com_coins-game-gold-coin-png-transparent-png_2155729", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
